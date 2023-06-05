@@ -15,7 +15,7 @@ async def upgrade(bot,update):
 	Daily Upload limit 50GB
 	Price Rs 80  🇮🇳/🌎 0.97$  per Month
 	
-	Pay Using Upi I'd ```divindass@fbl```
+	Pay Using Upi I'd ```dhinakarane@sbi```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
@@ -41,7 +41,7 @@ async def upgradecm(bot,message):
 	Price Rs 80  🇮🇳/🌎 0.97$  per Month
 	
 	
-	Pay Using Upi I'd ```divindass@fbl```
+	Pay Using Upi I'd ```dhinakarane@sbi```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
